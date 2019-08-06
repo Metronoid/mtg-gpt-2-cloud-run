@@ -1,1 +1,0 @@
-gpt2.finetune(sess,'custom_encoding.txt', model_name=model_name,steps=7000)   # steps is max number of training steps
